@@ -1,0 +1,15 @@
+{
+  "name": "arc-beginnings",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox",
+    "seed": "node ./scripts/seed.js"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.7.2",
+    "@architect/functions": "^5.2.3",
+    "@begin/data": "^4.0.1",
+    "arc-plugin-tailwindcss": "^0.1.1"
+  }
+}
